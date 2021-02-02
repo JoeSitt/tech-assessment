@@ -4,7 +4,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:62142",
+      "applicationUrl": "http://localhost:5001",
       "sslPort": 44394
     }
   },
@@ -12,7 +12,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "test",
+      "launchUrl": "Orders/all/ImTheCaptian",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -20,8 +20,8 @@
     "CSharp": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "test",
-      "applicationUrl": "https://localhost:5001;http://localhost:5000",
+      "launchUrl": "Orders/all/ImTheCaptian",
+      "applicationUrl": "http://localhost:5001;http://localhost:5000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

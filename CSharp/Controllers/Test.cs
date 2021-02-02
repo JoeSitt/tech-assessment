@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
+
 namespace CSharp.Controllers
 {
 	[ApiController]
@@ -15,7 +16,9 @@ namespace CSharp.Controllers
 		[HttpGet]
 		public string Get()
 		{
-			return "Success!";
+			return "<Html><body2>Success!\n Attack of The killer bunnies</body2></Html>";
 		}
+
+        
 	}
 }
