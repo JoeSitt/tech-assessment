@@ -17,3 +17,4 @@ C:\Users\Joe Spi\Documents\Sogeti\tech-assessment-master\tech-assessment-master\
 C:\Users\Joe Spi\Documents\Sogeti\tech-assessment-master\tech-assessment-master\CSharp\obj\Release\netcoreapp3.1\CSharp.dll
 C:\Users\Joe Spi\Documents\Sogeti\tech-assessment-master\tech-assessment-master\CSharp\obj\Release\netcoreapp3.1\CSharp.pdb
 C:\Users\Joe Spi\Documents\Sogeti\tech-assessment-master\tech-assessment-master\CSharp\obj\Release\netcoreapp3.1\CSharp.genruntimeconfig.cache
+C:\Users\Joe Spi\Documents\Sogeti\tech-assessment-master\tech-assessment-master\CSharp\obj\Release\netcoreapp3.1\CSharp.csprojAssemblyReference.cache
